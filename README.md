@@ -107,4 +107,4 @@ npm start
 
 ## License
 
-[MIT](LICENSE) © Your Name
+[MIT](LICENSE) © Mehul Dave
